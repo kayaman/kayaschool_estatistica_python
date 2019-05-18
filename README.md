@@ -1,3 +1,6 @@
+0. Python
+   1. Formatação americana e brasileira (explicar diferenças pontos, vírgulas em números)
+
 1. Introdução
 
    1. O que é Estatística?
